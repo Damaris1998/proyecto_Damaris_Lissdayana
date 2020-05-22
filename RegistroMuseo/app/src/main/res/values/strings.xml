@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RegistroMuseo</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_sexo">Sexo</string>
+    <string name="hint_etnia">Etnia</string>
+    <string name="hint_identificacion">Identificacion</string>
+    <string name="hint_direccion">Direccion</string>
+
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Persona not saved because it is empty.</string>
+</resources>
